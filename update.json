@@ -1,7 +1,7 @@
 {
     "name": "jxmgc",
-    "version": "0.2",
+    "version": "0.1",
     "download_url": "http://192.168.6.85/jxmgc.apk",
     "content":"优化代码逻辑",
-    "key":"false"
+    "key":"true"
 }
